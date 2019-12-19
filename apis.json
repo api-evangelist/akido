@@ -1,0 +1,54 @@
+{
+    "name": "Akido",
+    "description": "<p>Use Akido to easily integrate your software with any hospital health record system (EHR) and securely get access to health data.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/akido-stack.png",
+    "tags": [
+        "api not found",
+        "ehr",
+        "have api",
+        "no api definition"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/akido\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Akido",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/akido-stack.png",
+            "humanURL": "https:\/\/www.akidolabs.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/akido-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.akidolabs.com\/blog"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/portal.akidolabs.com\/v1.0\/docs"
+        },
+        {
+            "type": "Email",
+            "url": "support @akidolabs.com"
+        },
+        {
+            "type": "Forums",
+            "url": "https:\/\/portal.akidolabs.com\/v1.0\/discuss"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.akidolabs.com\/"
+        }
+    ]
+}
